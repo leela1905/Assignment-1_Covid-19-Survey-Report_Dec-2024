@@ -1,2 +1,2 @@
 # Survey-Dec-2024
-Repository for dataset
+This repository is used to submit assignments.
